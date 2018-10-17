@@ -1,5 +1,7 @@
 # Project 3 - *Yelp*
 
+** Created by: Arslan Saeed(Navigator), Nabil Khatri(Driver)
+
 **Yelp** is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
 
 Time spent: **3** hours spent in total
